@@ -33,19 +33,19 @@ pada Firestore, sehingga perubahan langsung tampil di layar.
 ## Screenshot
 
 ### Daftar Todo
-![Daftar Todo](screenshots/1-daftar-todo.jpeg)
+![Daftar Todo](Screenshots/1-daftar-todo.jpeg)
 
 ### Edit Todo
-![Edit Todo](screenshots/2-edit-todo.jpeg)
+![Edit Todo](Screenshots/2-edit-todo.jpeg)
 
 ### Setelah Diedit
-![Setelah Edit](screenshots/3-setelah-edit.jpeg)
+![Setelah Edit](Screenshots/3-setelah-edit.jpeg)
 
 ### Setelah Dihapus
-![Setelah Hapus](screenshots/4-setelah-hapus.jpeg)
+![Setelah Hapus](Screenshots/4-setelah-hapus.jpeg)
 
 ### Data di Firestore
-![Firestore](screenshots/5-firestore.png)
+![Firestore](Screenshots/5-firestore.png)
 
 ## Cara Menjalankan
 
